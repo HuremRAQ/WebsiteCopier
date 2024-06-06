@@ -38,6 +38,13 @@ Copy website:
 
 ‘copy_website’: The basic method for copying a website. Loads the HTML content of the page, processes it and saves it.
 
+How to use the utility:
+Make sure you have Python and the ‘requests’ and ‘beautifulsoup4’ libraries installed.
+Save the above code to a file, such as ‘website_copier.py’.
+Run the script with the command ‘python website_copier.py’.
+Enter the base URL of the website and the directory to save it.
+Follow the instructions on the screen. The utility will begin copying the website and saving it locally.
+
 support the author:
 PayPal: bratavmaskah@gmail.com
 USDT TRC-20: TV3LpYeQE2t96f9HfmMY4hqjQXstVgn7tt
